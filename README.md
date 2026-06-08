@@ -31,5 +31,9 @@ npm run dev
 
 Open http://localhost:5173
 
+## Live Demo
+https://affectionate-curiosity-production.up.railway.app
+
+
 ## Built by
 Nazmul Haque 
